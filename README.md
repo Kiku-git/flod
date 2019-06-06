@@ -15,10 +15,6 @@ And you should be good to go! Feel free to fork and submit pull requests. Thanks
 
 - `USERNAME` — Telegram bot username
 - `TOKEN` — Telegram bot token
-- `CHANNEL_HANDLE` — Handle of the Telegram ad channel
-- `CHANNEL_ID` — ID of the Telegram ad channel
-
-Bot should be admin at `CHANNEL_ID`.
 Also, please, consider looking at `.env.sample`.
 
 # License
