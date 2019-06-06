@@ -1,5 +1,3 @@
-# flod
-Telegram bot, which for a time activates offtop mode in chat.
 # Flod
 
 This is the code for the Telegram bot — [@flodbot](https://t.me/flodbot), which for a time activates offtop mode in chat.
