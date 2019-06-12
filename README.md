@@ -1,4 +1,4 @@
-# Ofpic
+# Offtopic
 
 This is the code for the Telegram bot — [@offtopic_bot](https://t.me/offtopic_bot), which for a time activates offtop mode in chat.
 
