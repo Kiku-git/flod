@@ -4,7 +4,7 @@ This is the code for the Telegram bot — [@offtopic_bot](https://t.me/offtopic_
 
 # Installation and local launch
 
-1. Clone this repo: `git clone https://github.com/kiku-git/offtopic-tgbot`
+1. Clone this repo: `git clone https://github.com/kiku-git/offtopic`
 2. Create `.env` with the environment variables listed below
 3. Run `yarn install` in the root folder
 4. Run `yarn distribute`
