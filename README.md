@@ -1,10 +1,10 @@
-# Flod
+# Ofpic
 
-This is the code for the Telegram bot — [@flodbot](https://t.me/flodbot), which for a time activates offtop mode in chat.
+This is the code for the Telegram bot — [@ofpicbot](https://t.me/ofpicbot), which for a time activates offtop mode in chat.
 
 # Installation and local launch
 
-1. Clone this repo: `git clone https://github.com/kiku-git/flod`
+1. Clone this repo: `git clone https://github.com/kiku-git/ofpic`
 2. Create `.env` with the environment variables listed below
 3. Run `yarn install` in the root folder
 4. Run `yarn distribute`
